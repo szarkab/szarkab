@@ -2,11 +2,9 @@
   <img src="./cover.png" alt="Cosmic engraving exploring knowledge, consciousness and the universe" width="1200">
 </a>
 
-I’m a Product Designer building with AI and exploring how agents, tools and automation can work together to solve practical problems.
+I’m a Product Designer building with AI. I bring a product perspective to technical work: understanding the problem, shaping the solution, and making it useful.
 
-I bring a product perspective: understanding the problem, shaping how the solution should work, and building something people can actually use.
-
-Through hands-on projects, I’m developing my skills in agentic development and AI integration — connecting models, tools and workflows into useful products.
+Through hands-on projects, I’m developing my skills in agentic development and AI integration — connecting models, tools and workflows into working products.
 
 [Portfolio & contact → szarkabalint.hu](https://www.szarkabalint.hu)
 
