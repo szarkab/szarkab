@@ -4,7 +4,7 @@
 
 I’m a Product Designer building with AI. I bring a product perspective to technical work: understanding the problem, shaping the solution, and making it useful.
 
-Through hands-on projects, I’m developing my skills in agentic development and AI integration — connecting models, tools and workflows into working products.
+Through hands-on projects, I’m developing my skills in agentic development and AI integration by connecting models, tools and workflows into working products.
 
 [Portfolio & contact → szarkabalint.hu](https://www.szarkabalint.hu)
 
