@@ -1,16 +1,19 @@
-## Hi there 👋
+<a href="https://www.szarkabalint.hu">
+  <img src="./cover.png" alt="Cosmic engraving exploring knowledge, consciousness and the universe" width="1200">
+</a>
 
-<!--
-**szarkab/szarkab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Product Designer building with AI and exploring how agents, tools and automation can work together to solve practical problems.
 
-Here are some ideas to get you started:
+I bring a product perspective: understanding the problem, shaping how the solution should work, and building something people can actually use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Through hands-on projects, I’m developing my skills in agentic development and AI integration — connecting models, tools and workflows into useful products.
+
+[Portfolio & contact → szarkabalint.hu](https://www.szarkabalint.hu)
+
+## Selected project
+
+### [Helyi leirat](https://github.com/szarkab/helyi-leirat)
+
+A free macOS app for transcribing Hungarian audio locally on Apple Silicon. Built with Whisper large-v3 and MLX, with timestamped TXT/Markdown exports and optional automatic speaker separation.
+
+[Explore the project →](https://github.com/szarkab/helyi-leirat)
